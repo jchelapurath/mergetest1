@@ -2,12 +2,12 @@
 public class Test1 {
 	
 	public static void gutentag () {
-		System.out.println("gutentag");
+		System.out.println("gutentag!!!!!");
 		
 	}
 	
 	public static void byebye () {
-		System.out.println("byebye");
+		System.out.println("byebye!!!!!");
 		
 	}
 	
